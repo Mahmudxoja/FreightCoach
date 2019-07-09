@@ -1,0 +1,6 @@
+c:\users\mahmudxo'ja\documents\visual studio 2017\Projects\FreightTrain\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\users\mahmudxo'ja\documents\visual studio 2017\Projects\FreightTrain\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\users\mahmudxo'ja\documents\visual studio 2017\Projects\FreightTrain\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\users\mahmudxo'ja\documents\visual studio 2017\Projects\FreightTrain\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\mahmudxo'ja\documents\visual studio 2017\Projects\FreightTrain\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\users\mahmudxo'ja\documents\visual studio 2017\Projects\FreightTrain\ConsoleApp\obj\Debug\ConsoleApp.pdb
